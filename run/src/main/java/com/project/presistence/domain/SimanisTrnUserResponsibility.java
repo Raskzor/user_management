@@ -1,4 +1,4 @@
-package com.run.presistence.domain;
+package com.project.presistence.domain;
 
 import lombok.*;
 

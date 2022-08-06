@@ -1,6 +1,6 @@
-package com.run.presistence.repository;
+package com.project.presistence.repository;
 
-import com.run.presistence.domain.SimanisTrnUserResponsibility;
+import com.project.presistence.domain.SimanisTrnUserResponsibility;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 public interface SimanisTrnUserResponsibilityRepository extends JpaRepository<SimanisTrnUserResponsibility, Integer> {

@@ -1,6 +1,6 @@
-package com.run.presistence.repository;
+package com.project.presistence.repository;
 
-import com.run.presistence.domain.SimanisMstUser;
+import com.project.presistence.domain.SimanisMstUser;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 
